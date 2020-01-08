@@ -1,1 +1,1 @@
-# Microservices w/ RabbitMQ & Kotlin site
+# Microservices w/ RabbitMQ & Kotlin
