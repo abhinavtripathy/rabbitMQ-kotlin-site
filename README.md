@@ -1,6 +1,5 @@
 # Microservices w/ RabbitMQ & Kotlin site
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7b2f8bd7-f021-44e2-b131-ddebc3962c95/deploy-status)](https://app.netlify.com/sites/rabbitmq-kotlin/deploys)
-
 [![License](http://img.shields.io/badge/License-MIT-brightgreen.svg)](./LICENSE)
 
 A site on the []() for building microservices with RabbitMQ and Kotlin. 
