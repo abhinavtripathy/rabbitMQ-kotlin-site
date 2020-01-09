@@ -4,18 +4,13 @@
 
 A site on the []() for building microservices with RabbitMQ and Kotlin. 
 
-<!-- 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+You need Ruby and Rails. 
 
 ### Installing
 
@@ -57,7 +52,7 @@ Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system -->
+Add additional notes about how to deploy this on a live system
 
 ## Built With
 
